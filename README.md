@@ -1,5 +1,6 @@
-# EXERCICE GITHUB
+# **EXERCICE GITHUB**
 
-## Je s’appelle Groot !
+## _Je s’appelle Groot !_
 
 ![Groot image](https://media.giphy.com/media/R97jJCEGEmh0I/giphy.gif)
+
